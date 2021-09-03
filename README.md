@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -30,6 +30,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 I had trouble with the edit feature, specifically the startActivityForResult function being deprecated. I found some solutions online because this was a common problem but
 I wasn't able to implement it properly without messing up the app's ability to run properly so that line is commented out. 
+
+I also had some issues with github but I think these were because of some permission issues on my computer. I was able to resolve them put my project in my github account. 
 
 ## License
 
